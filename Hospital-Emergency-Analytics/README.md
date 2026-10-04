@@ -57,3 +57,18 @@ Interactive decomposition of patient volume across demographic dimensions.
 ## Project Note
 
 This is a portfolio/learning project developed using sample healthcare data. It is not based on confidential patient, hospital, employer, or client data.
+
+
+## Dashboard Preview
+
+### Monthly View
+![Monthly View](screenshots/01-monthly-view.png)
+
+### Consolidated View
+![Consolidated View](screenshots/02-consolidated-view.png)
+
+### Key Influencers & KPI
+![Key Influencers](screenshots/03-key-influencers.png)
+
+### Decomposition Tree
+![Decomposition Tree](screenshots/04-decomposition-tree.png)

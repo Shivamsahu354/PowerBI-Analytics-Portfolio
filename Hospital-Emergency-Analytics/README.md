@@ -54,6 +54,17 @@ Interactive decomposition of patient volume across demographic dimensions.
 - Data Modeling
 - Data Visualization
 
+## Skills Demonstrated
+
+- Data modeling and relationship design
+- DAX measures and calculations
+- Power Query transformations
+- KPI and trend analysis
+- Interactive dashboard development
+- Forecasting and analytical visuals
+- Key Influencers and Decomposition Tree
+- Slicer-driven report interaction
+
 ## Project Note
 
 This is a portfolio/learning project developed using sample healthcare data. It is not based on confidential patient, hospital, employer, or client data.
